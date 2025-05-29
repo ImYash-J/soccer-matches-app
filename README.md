@@ -9,6 +9,17 @@ A simple app to display upcoming soccer matches using a public API.
 - Backend using Node.js + Express
 - Frontend using vanilla HTML + JS
 
+   ## Technologies & Tools
+
+- Node.js  
+- Express  
+- Fetch API  
+- HTML5  
+- CSS3  
+- Vanilla JavaScript  
+- CORS  
+- Git & GitHub  
+
 ## How to Run
 
 ### Backend
